@@ -1,0 +1,16 @@
+body{
+    background: #2A7B9B;
+background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 66%, rgba(237, 221, 83, 1) 100%);
+}
+P{
+    color: black;
+    font-family: arial;
+
+}
+body{max-width: 750px; margin: 0 auto; padding: 20px; }
+.top-margin{ padding-bottom: 20px;}
+.kd_align{text-align-last: center;}
+.box {
+  display: block;
+  background: rgba(110, 172, 98, 0.527), 0.527), 0.527);
+}
