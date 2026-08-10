@@ -1,10 +1,10 @@
-body {
+body{
        background: #020129;
 background: linear-gradient(90deg, rgba(2, 1, 41, 1) 0%, rgba(9, 9, 121, 1) 61%);
-*{  
-    max-width: 1400px;
-    margin: 3px;
-    padding: 3px;
+* {
+    max-width: 1500px;
+    margin: 10px;
+    padding: 10px;
     box-sizing: border-box;
 }
 
@@ -21,9 +21,10 @@ body{
 }
 
 .logo{
-    color: rgb(0, 255, 94);
+    
+    color: rosybrown;
     font-size: 25px;
-    font-weight: bold;
+    font-weight: bold, underline;
     text-decoration: none;
 }
 
@@ -38,35 +39,18 @@ body{
     font-size: 20px;
 }
 
-.menu a:hover{
-    color: yellow;
-}
-
-table,
-th,
-td{
-    color: white;
-    border: 1px solid white;
-    border-collapse: collapse;
-    padding: 10px;
-}
-
-h1,
-label{
-    color: white;
-}
-
 h2 {
     color: white;
     width: 70%;
     margin: 100px auto;
     padding-left: 120px;
+    font-size: 30px;
 }
 
 .about {
-    width: 80%;
+    width: 60%;
     margin: 100px auto;
     text-align: center;
     color: white;
-    font-size: 20px;
+    font-size: 25px;
 }
