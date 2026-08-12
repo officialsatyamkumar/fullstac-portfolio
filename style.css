@@ -41,16 +41,50 @@ body{
 
 h2 {
     color: white;
-    width: 70%;
-    margin: 100px auto;
-    padding-left: 120px;
+    width: 20%;
+    margin: 0px;
+    padding-left:0px;
     font-size: 30px;
 }
 
-.about {
-    width: 60%;
-    margin: 100px auto;
+.about{
+    width: 80%;
+    margin: 0px auto;
     text-align: center;
     color: white;
     font-size: 25px;
 }
+
+table{
+    th {
+        color: white;
+        font-size: 20px;
+    }
+    td {
+        color: white;
+        font-size: 20px;
+    }
+    width: 20% auto;
+    border-collapse: collapse;
+}
+
+ul{
+    color: white;
+    front-size: 20px
+}
+
+form{
+    color: white;
+    front-size: 20px;
+}
+
+h1{
+    color: white;
+    front-size: 20px;
+}
+
+footer{
+    color: white;
+    front-size: 20px;
+}
+
