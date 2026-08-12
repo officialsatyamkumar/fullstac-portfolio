@@ -1,4 +1,4 @@
-body{
+body {
        background: #020129;
 background: linear-gradient(90deg, rgba(2, 1, 41, 1) 0%, rgba(9, 9, 121, 1) 61%);
 * {
@@ -8,19 +8,19 @@ background: linear-gradient(90deg, rgba(2, 1, 41, 1) 0%, rgba(9, 9, 121, 1) 61%)
     box-sizing: border-box;
 }
 
-body{
+body {
     background: black;
     
     color: white;
 }
 
-.navbar{
+.navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.logo{
+.logo {
     
     color: rosybrown;
     font-size: 25px;
@@ -28,12 +28,12 @@ body{
     text-decoration: none;
 }
 
-.menu{
+.menu {
     display: flex;
     gap: 20px;
 }
 
-.menu a{
+.menu a {
     color: white;
     text-decoration: none;
     font-size: 20px;
@@ -47,7 +47,7 @@ h2 {
     font-size: 30px;
 }
 
-.about{
+.about {
     width: 80%;
     margin: 0px auto;
     text-align: center;
@@ -55,7 +55,7 @@ h2 {
     font-size: 25px;
 }
 
-table{
+table {
     th {
         color: white;
         font-size: 20px;
@@ -68,23 +68,22 @@ table{
     border-collapse: collapse;
 }
 
-ul{
+ul {
     color: white;
-    front-size: 20px
+    font-size: 20px
 }
 
-form{
+form {
     color: white;
-    front-size: 20px;
+    font-size: 20px;
 }
 
-h1{
+h1 {
     color: white;
-    front-size: 20px;
+    font-size: 20px;
 }
 
-footer{
+footer {
     color: white;
-    front-size: 20px;
+    font-size: 20px;
 }
-
