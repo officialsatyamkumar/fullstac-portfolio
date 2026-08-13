@@ -43,7 +43,7 @@ h2 {
     color: white;
     width: 20%;
     margin: 0px;
-    padding-left:0px;
+    padding-left: 0px;
     font-size: 30px;
 }
 
@@ -86,4 +86,13 @@ h1 {
 footer {
     color: white;
     font-size: 20px;
+}
+
+.contact label {
+    display: inline-block;
+    width: 150px;
+}
+
+table a {
+    color: white;
 }
